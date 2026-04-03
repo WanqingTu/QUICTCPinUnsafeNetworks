@@ -13,3 +13,5 @@ TLS/TCP overtakes QUIC/UDP when handling MitM attacks. In terms of security, our
 to be more secure than QUIC, but QUIC traffic patterns are harder to learn using machine learning methods. We hope
 that these insights will be informative in protocol selection for future networks and applications, as well as shedding
 light on the further development of the two protocol stacks.
+
+The paper received a top-cited artical certificate among the publications in 2024 from IET Smart Cities!
