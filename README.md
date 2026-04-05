@@ -14,4 +14,6 @@ to be more secure than QUIC, but QUIC traffic patterns are harder to learn using
 that these insights will be informative in protocol selection for future networks and applications, as well as shedding
 light on the further development of the two protocol stacks.
 
-The paper received a top-cited artical certificate among the publications in 2024 from IET Smart Cities!
+Publication:
+[1] A. Simpson, M. Alshaali, W. Tu, and R. Asghar. QUIC and TCP in Unsafe Networks: Comparative Analysis. IET Smart Cities, 2024. 
+This paper received a top-cited artical certificate among the publications in 2024 from IET Smart Cities!
