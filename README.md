@@ -18,4 +18,4 @@ Publication:
 
 [1] A. Simpson, M. Alshaali, W. Tu, and R. Asghar. QUIC and TCP in Unsafe Networks: Comparative Analysis. IET Smart Cities, 2024. 
 
-This paper received a top-cited artical certificate among the publications in 2024 from IET Smart Cities!
+This paper received a top-cited article certificate among the publications in 2024 from IET Smart Cities!
